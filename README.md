@@ -10,23 +10,19 @@ Papai Noel está brincando com seus duendes para entretê-los durante a véspera
 
 Seu trabalho é ajudar o Papai Noel montando um problema que mostre todos os "Ho" que ele deve falar dado o número sorteado.
 
-Entrada
-A entrada é composta por um único inteiro N (0 < N ≤ 106) representando quantos "Ho" serão falados por Noel.
+### Entrada
+A entrada é composta por um único inteiro *N* (0 < *N* ≤ 106) representando quantos "Ho" serão falados por Noel.
 
-Saída
+### Saída
 A saída é composta por todos "Ho" que Papai Noel deve falar separados por um espaço. Após o último "Ho" deve ser apresentado um "!" encerrando o programa.
 
  
-Exemplo de Entrada	Exemplo de Saída
-5
-
-Ho Ho Ho Ho Ho!
+Exemplo de Entrada | Exemplo de Saída
+-------------------|-------------------
+5 | Ho Ho Ho Ho Ho!
 
  
-Contest de Natal 2014
 
 
-
- salvo uma semana atrás
 
 
