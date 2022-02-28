@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafios/Desafios.csproj": {}
+    "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio01/Desafio01.csproj": {}
   },
   "projects": {
-    "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafios/Desafios.csproj": {
+    "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio01/Desafio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafios/Desafios.csproj",
-        "projectName": "Desafios",
-        "projectPath": "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafios/Desafios.csproj",
+        "projectUniqueName": "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio01/Desafio01.csproj",
+        "projectName": "Desafio01",
+        "projectPath": "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio01/Desafio01.csproj",
         "packagesPath": "/home/aloisio/.nuget/packages/",
-        "outputPath": "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafios/obj/",
+        "outputPath": "/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aloisio/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
