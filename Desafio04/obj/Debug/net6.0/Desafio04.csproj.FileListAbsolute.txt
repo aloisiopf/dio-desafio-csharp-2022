@@ -1,0 +1,15 @@
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/bin/Debug/net6.0/Desafio04
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/bin/Debug/net6.0/Desafio04.deps.json
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/bin/Debug/net6.0/Desafio04.runtimeconfig.json
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/bin/Debug/net6.0/Desafio04.dll
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/bin/Debug/net6.0/ref/Desafio04.dll
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/bin/Debug/net6.0/Desafio04.pdb
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.csproj.AssemblyReference.cache
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.GeneratedMSBuildEditorConfig.editorconfig
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.AssemblyInfoInputs.cache
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.AssemblyInfo.cs
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.csproj.CoreCompileInputs.cache
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.dll
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/ref/Desafio04.dll
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.pdb
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-csharp-2022/Desafio04/obj/Debug/net6.0/Desafio04.genruntimeconfig.cache
