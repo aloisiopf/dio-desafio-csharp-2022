@@ -4,7 +4,7 @@ namespace DIO {
     class Program {
         static void Main(string[] args) {
            
-            int N = int.Parse(Console.ReadLine());
+            int N = int32.Parse(Console.ReadLine());
 
             //Exibir "Ho" do papai noel
             for (int i = 0; i < N; i++) {
