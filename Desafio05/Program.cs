@@ -12,11 +12,14 @@ class Program {
 
     do {
       joia = Console.ReadLine();
-      tamanho += joia.Length;
-      
-      joias.Add(joia);
-      
-    } while(tamanho <= 106);
+      //Faz a verifcação se a string não é nula ou vazia 
+      if (!string.IsNullOrEmpty(joia)){
+        tamanho += joia.Length; //Soma o tamanho de cada joia
+        joias.Add(joia);
+      } else {
+        break;
+      }      
+    } while(true);
     joias_distintas = joias.Distinct();
 
     foreach (string x in joias_distintas){
